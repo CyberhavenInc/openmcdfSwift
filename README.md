@@ -1,2 +1,2 @@
 # openmcdfSwift
-swift openmcd port
+Partial port of https://github.com/ironfede/openmcdf to Swift.
